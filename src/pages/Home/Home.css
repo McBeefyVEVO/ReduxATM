@@ -1,0 +1,80 @@
+.Home_vybrat {
+    
+    margin: 125px;
+    padding: 0;
+
+    text-align: center;
+
+    text-decoration-line: underline;
+
+    color: white
+}
+.Home_vlozit {
+    
+    margin: 125px;
+    padding: 0;
+
+    text-align: center;
+
+    text-decoration-line: underline;
+
+    color: white
+}
+.Home_zustatek {
+    
+    margin: 125px;
+    padding: 0;
+
+    text-align: center;
+
+    text-decoration-line: underline;
+
+    color: white
+}
+.Home_odejit {
+    
+    margin: 125px;
+    padding: 0;
+
+    text-align: center;
+
+    text-decoration-line: underline;
+
+    color: white
+}
+
+
+
+.LogoTop {
+    margin: 0;
+    padding: 0;
+
+    position: absolute;
+    left: 10px;
+    top: 0px;
+
+    color: white
+}
+
+.LogoTop_Bank {
+    margin: 0;
+    padding: 0;
+
+    position: absolute;
+    left: 135px;
+    top: 0px;
+
+    color: black;
+}
+
+.LogoBot {
+    margin: 0;
+    padding: 0;
+
+    position: absolute;
+    left: 10px;
+    top: 40px;
+
+    color: white
+    
+}

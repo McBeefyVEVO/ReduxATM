@@ -1,18 +1,34 @@
-.Home_ul {
-    
-    line-height: 250%;
-    list-style-type: none;
+.Balance_exit {
+    margin: 0;
+    padding: 0;
 
-    margin: 57.5px;
+    text-align: right;
+
+    text-decoration-line: underline;
+
+    color: white
+}
+
+.Balance_YourBal {
+    margin: 60px;
     padding: 0;
 
     text-align: center;
-    column-gap: 5px;
+    font-size: 24px;
+
+    color: white
 }
-.Home_li {
-    color: white;
-    text-decoration: underline white;
+
+.Balance_Value {
+    margin: 0px;
+    padding: 0;
+
+    text-align: center;
+
+    color: white
 }
+
+
 
 
 
